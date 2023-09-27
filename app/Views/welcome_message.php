@@ -1,3 +1,5 @@
+<?= $this->include('/ecommerce/top') ?>
+
 <!doctype html>
 <html class="no-js" lang="en">
 
